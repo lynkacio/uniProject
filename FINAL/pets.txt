@@ -1,0 +1,6 @@
+type,name,age,ownerId,breed/size,isCastrated/isAggressive,medicalNeeds/description,careInstructions
+DOG,TESTING_DOG,3,TESTING001,SMALL,true,,
+OTHERS,TESTING_BIRD,3,TESTING001,TESTING_BIRD,,,
+DOG,Kiki,3,zyw123,SMALL,true,,
+CAT,Facai,4,zyw123,American Short Hair,true,AAAAAAAAA,
+OTHERS,Becky,2,zyw123,Terantula,,,

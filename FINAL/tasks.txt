@@ -1,0 +1,48 @@
+description,workingHours,hourlyWage,isTaken,creatorId
+Dog walking - Buddy,1,15.0,true,sophia6060
+Pet grooming - Bear,3,25.0,true,noah6565
+Pet grooming - Roxy,2,20.0,true,dylan5151
+Vet visit - Facai,4,40.0,true,nate3939
+Pet sitting - Whiskers,5,35.0,true,jon2525
+Pet sitting - Oliver,4,30.0,true,jennifer808
+Dog training - Luna,6,45.0,true,hannah4242
+Cat grooming - Coco,2,20.0,true,kyle3535
+Pet transportation - Milo,3,25.0,true,ava6666
+Overnight care - Lucy,8,60.0,true,amber3232
+Dog walking - Cooper,1,15.0,true,rebecca2626
+Pet grooming - Molly,2,20.0,true,nat5252
+Pet sitting - Duke,5,35.0,true,rachel2222
+Dog training - Sadie,6,45.0,true,cam5353
+Cat grooming - Bailey,2,20.0,true,michael707
+Dog walking - Lucky,1,15.0,true,user22222
+Grooming - Rusty,2,20.0,true,vicky4040
+Feeding - Luna,1,12.0,true,emily202
+Diabetes care - Milo,1,30.0,true,tyler4343
+Cat sitting - Simba,4,28.0,true,matt1111
+Morning walk - Maggie,1,15.0,true,vanessa5656
+Rabbit care - Fluffy,2,16.0,true,emma6464
+Night watch - Zeus,6,50.0,true,nate3939
+Fetch time - Diesel,2,20.0,true,tyler4343
+Grooming - Bella (cat),2,20.0,true,alli4848
+Litter clean - Whiskers,1,10.0,true,greg3131
+Leash training - Ruby,3,35.0,true,izzy6868
+Bird care - Kiwi,1,12.0,true,andrew1919
+Dog massage - Buster,2,25.0,true,ryan3737
+Evening walk - Penny,1,14.0,true,rebecca2626
+Quiet time - Chloe,2,18.0,true,jessica1010
+Anti-scratch check - Bella (cat),1,15.0,true,hannah4242
+Walk and brush - Scout,3,26.0,true,alexis4444
+Nap monitoring - Toby,1,14.0,true,brian2323
+Anxiety reduction - Coco,2,22.0,true,maddie5050
+Vet escort - Jake,4,35.0,true,stephanie2020
+Brushing session - Shadow,1,15.0,true,megan1818
+Training session - Sadie,100,0.0,true,aaron5757
+Fetch and chill - Benny,2,19.0,true,vanessa5656
+Soft food prep - Oreo,1,13.0,true,pat3333
+Groom & fluff - Lulu,3,25.0,true,ashley1414
+Ball session - Lucky,1,15.0,true,andrew1919
+FEED MY TERANTULA!,4,30.0,true,zyw123
+PET SITTING FOR MY TERANTULA WHILE I AM GONE FOR VACATION,20,40.0,true,zyw123
+"Dog walking - kiki",2,30.0,false,zyw123
+"dddd",2,34.0,false,zyw123
+"dddd",2,2.0,false,zyw123
