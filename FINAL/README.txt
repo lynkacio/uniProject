@@ -32,7 +32,7 @@ For Helpers:
 
 For Admins:
 1. Monitor all system activity
-2. Verify helper certificates
+2. Receive and verify helper certificates
 3. Manage user accounts
 4. Oversee tasks
 
