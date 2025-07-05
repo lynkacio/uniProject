@@ -53,4 +53,4 @@ Installation
 
 Support
 -------
-Contact: [your support email]
+Contact: lynnchang952@126.com
